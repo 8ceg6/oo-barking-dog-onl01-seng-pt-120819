@@ -2,7 +2,7 @@ require 'pry'
 
 class Dog 
   
-  def name=dog_name
+  def name = dog_name
       @name_of_dog = dog_name
   end
   
